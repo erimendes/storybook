@@ -1,6 +1,7 @@
 import React from 'react';
 // import { Button } from 'alurabook-ds-01'; // 🔗 sua biblioteca local
-import { Button } from '/home/francisco/alurabooks-ds/alurabook-ds-01/src/stories/Button'; // 🔗 sua biblioteca local
+// import { Button } from '/home/francisco/alurabooks-ds/alurabook-ds-01/src/stories/Button'; // 🔗 sua biblioteca local
+import { Button } from '/home/francisco/storybook/alurabook-fr-01/src/componentes/button/Button'; // 🔗 sua biblioteca local
 
 function App() {
   return (
